@@ -34,7 +34,7 @@ a {
 }
 
 header {
-  height: 200px;
+  height: 225px;
 }
 
 header img {
@@ -49,6 +49,11 @@ header img {
 
 .search {
   height: 100px;
+}
+
+.quote-bar {
+  
+  padding-bottom: 1cm;
 }
 
 input[type='text'] {
